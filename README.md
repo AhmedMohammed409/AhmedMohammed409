@@ -2,7 +2,7 @@
 - 🏠 A passionate Native Android developer from Egypt/Mansoura
 - 🌱 I’m currently learning topics in Android development.
 - 💞️ I’m looking to collaborate on  Android projects
-- 📫 How to reach me  @ahmedhamama@gmail.com
+- 📫 How to reach me ahmedhamama@gmail.com
 
 
 <!---
